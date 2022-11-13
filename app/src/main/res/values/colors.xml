@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryColor">#00BCD4</color>
+    <color name="onPrimaryColor">#FFFFFF</color>
+    <color name="primaryContainerColor">#A1EFFF</color>
+    <color name="onPrimaryContainerColor">#001F25</color>
+
+    <color name="primaryDarkColor">#008BA3</color>
+    <color name="primaryLightColor">#62EFFF</color>
+    <color name="primaryLighterColor">#B4FFFF</color>
+
+    <color name="secondaryColor">#E91E63</color>
+    <color name="onSecondaryColor">#FFFFFF</color>
+    <color name="secondaryContainerColor">#FFD9DE</color>
+    <color name="onSecondaryContainerColor">#400014</color>
+
+    <color name="secondaryDarkColor">#B0003A</color>
+    <color name="secondaryLightColor">#FF6090</color>
+
+    <color name="tertiaryColor">#006493</color>
+    <color name="onTertiaryColor">#FFFFFF</color>
+    <color name="tertiaryContainerColor">#CAE6FF</color>
+    <color name="onTertiaryContainerColor">#001e30</color>
+
+    <color name="errorColor">#BA1A1A</color>
+    <color name="errorContainerColor">#FFDAD6</color>
+    <color name="onErrorColor">#FFFFFF</color>
+    <color name="onErrorContainerColor">#410002</color>
+
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="onBackgroundColor">#000000</color>
+
+    <color name="surfaceColor">#FBFCFD</color>
+    <color name="onSurfaceColor">#191C1D</color>
+    <color name="surfaceVariantColor">#DBE4E6</color>
+    <color name="onSurfaceVariantColor">#3F484A</color>
+
+    <color name="outlineColor">#6F797B</color>
+    <color name="inverseOnSurfaceColor">#EFF1F2</color>
+    <color name="inverseSurfaceColor">#2E3132</color>
+    <color name="primaryInverseColor">#44D8F1</color>
+
+    <!-- -->
+
+    <color name="nightPrimaryColor">#880E4F</color>
+    <color name="nightOnPrimaryColor">#FFFFFF</color>
+    <color name="nightPrimaryContainerColor">#004E59</color>
+    <color name="nightOnPrimaryContainerColor">#A1EFFF</color>
+
+    <color name="nightPrimaryDarkColor">#560027</color>
+    <color name="nightPrimaryLightColor">#BC477B</color>
+
+    <color name="nightSecondaryColor">#D81B60</color>
+    <color name="nightOnSecondaryColor">#FFFFFF</color>
+    <color name="nightSecondaryContainerColor">#900038</color>
+    <color name="nightOnSecondaryContainerColor">#FFD9DE</color>
+
+    <color name="nightSecondaryDarkColor">#280680</color>
+    <color name="nightSecondaryLightColor">#9162E4</color>
+
+    <color name="nightTertiaryColor">#8DCDFF</color>
+    <color name="nightOnTertiaryColor">#00344F</color>
+    <color name="nightTertiaryContainerColor">#004B70</color>
+    <color name="nightOnTertiaryContainerColor">#CAE6FF</color>
+
+    <color name="nightErrorColor">#FFB4AB</color>
+    <color name="nightErrorContainerColor">#93000A</color>
+    <color name="nightOnErrorColor">#690005</color>
+    <color name="nightOnErrorContainerColor">#FFDAD6</color>
+
+    <color name="nightBackgroundColor">#000000</color>
+    <color name="nightOnBackgroundColor">#FFFFFF</color>
+
+    <color name="nightSurfaceColor">#191C1D</color>
+    <color name="nightOnSurfaceColor">#E1E3E3</color>
+    <color name="nightSurfaceVariantColor">#3F484A</color>
+    <color name="nightOnSurfaceVariantColor">#BFC8CA</color>
+
+    <color name="nightOutlineColor">#899295</color>
+    <color name="nightInverseOnSurfaceColor">#191C1D</color>
+    <color name="nightInverseSurfaceColor">#E1E3E3</color>
+    <color name="nightPrimaryInverseColor">#006876</color>
+
+    <!-- -->
+
+    <color name="ic_launcher_background">#00BCD4</color>
+
+    <color name="textWhiteDog">#0069c0</color>
+
+    <color name="semitransparente">#EEFFFFFF</color>
+    <color name="transparente">#00FFFFFF</color>
+
+    <color name="fondo_secondary">#F48FB1</color>
+
+    <color name="rosa">#E91E63</color>
+    <color name="verde">#4CAF50</color>
+    <color name="rojo">#F44336</color>
+
+    <color name="cian_oscuro">#008BA3</color>
+
+    <color name="grisClaroNormalOnBackground">@color/gris300</color>
+    <color name="grisClaroPressedOnBackground">@color/gris500</color>
+    <color name="grisClaroPressedDarkOnBackground">@color/gris700</color>
+    <color name="disabledOnBackground">@color/gris500</color>
+
+    <color name="gris050">#FAFAFA</color>
+    <color name="gris100">#F5F5F5</color>
+    <color name="gris200">#EEEEEE</color>
+    <color name="gris300">#E0E0E0</color>
+    <color name="gris400">#BDBDBD</color>
+    <color name="gris500">#9E9E9E</color>
+    <color name="gris600">#757575</color>
+    <color name="gris700">#616161</color>
+    <color name="gris800">#424242</color>
+    <color name="gris900">#212121</color>
+
+    <color name="fondo_anuncio">#E0E0E0</color>
+
+    <color name="cardFondoPrimary">#E0F7FA</color>
+
+</resources>

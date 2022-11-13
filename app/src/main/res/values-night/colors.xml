@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="textWhiteDog">#000000</color>
+
+    <color name="semitransparente">#EE000000</color>
+    <color name="transparente">#00FFFFFF</color>
+
+    <color name="fondo_secondary">#AD1457</color>
+
+    <color name="rosa">#880E4F</color>
+    <color name="verde">#1B5E20</color>
+    <color name="rojo">#B71C1C</color>
+
+    <color name="cian_oscuro">#00363A</color>
+
+    <color name="grisClaroNormalOnBackground">#888888</color>
+    <color name="grisClaroPressedOnBackground">#484848</color>
+    <color name="disabledOnBackground">#181818</color>
+    <color name="grisClaroPressedDarkOnBackground">@color/gris700</color>
+
+    <color name="gris050">#212121</color>
+    <color name="gris100">#424242</color>
+    <color name="gris200">#616161</color>
+    <color name="gris300">#757575</color>
+    <color name="gris400">#9E9E9E</color>
+    <color name="gris500">#BDBDBD</color>
+    <color name="gris600">#E0E0E0</color>
+    <color name="gris700">#EEEEEE</color>
+    <color name="gris800">#F5F5F5</color>
+    <color name="gris900">#FAFAFA</color>
+
+    <color name="fondo_anuncio">#181818</color>
+
+    <color name="cardFondoPrimary">#484848</color>
+
+</resources>

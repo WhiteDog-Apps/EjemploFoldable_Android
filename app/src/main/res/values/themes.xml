@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.EjemploFoldable" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorOnPrimary">@color/onPrimaryColor</item>
+        <item name="colorPrimaryContainer">@color/primaryContainerColor</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainerColor</item>
+
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorOnSecondary">@color/onSecondaryColor</item>
+        <item name="colorSecondaryContainer">@color/secondaryContainerColor</item>
+        <item name="colorOnSecondaryContainer">@color/onSecondaryContainerColor</item>
+
+        <item name="colorPrimaryVariant">@color/primaryDarkColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryDarkColor</item>
+
+        <item name="colorTertiary">@color/tertiaryColor</item>
+        <item name="colorOnTertiary">@color/onTertiaryColor</item>
+        <item name="colorTertiaryContainer">@color/tertiaryContainerColor</item>
+        <item name="colorOnTertiaryContainer">@color/onTertiaryContainerColor</item>
+
+        <item name="colorError">@color/errorColor</item>
+        <item name="colorErrorContainer">@color/errorContainerColor</item>
+        <item name="colorOnError">@color/onErrorColor</item>
+        <item name="colorOnErrorContainer">@color/onErrorContainerColor</item>
+
+        <item name="android:colorBackground">@color/backgroundColor</item>
+        <item name="colorOnBackground">@color/onBackgroundColor</item>
+
+        <item name="colorSurface">@color/surfaceColor</item>
+        <item name="colorOnSurface">@color/onSurfaceColor</item>
+        <item name="colorSurfaceVariant">@color/surfaceVariantColor</item>
+        <item name="colorOnSurfaceVariant">@color/onSurfaceVariantColor</item>
+
+        <item name="colorOutline">@color/outlineColor</item>
+
+        <item name="colorOnSurfaceInverse">@color/inverseOnSurfaceColor</item>
+        <item name="colorSurfaceInverse">@color/inverseSurfaceColor</item>
+
+        <item name="colorPrimaryInverse">@color/primaryInverseColor</item>
+
+        <item name="materialAlertDialogTheme">@style/Theme.EjemploFoldable.Dialog</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <item name="android:navigationBarColor">?attr/colorPrimaryVariant</item>
+
+        <item name="toolbarStyle">@style/Widget.App.Toolbar</item>
+        <item name="materialButtonOutlinedStyle">@style/Widget.App.Button</item>
+    </style>
+
+    <style name="Theme.EjemploFoldable.Dialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorSecondary">@color/secondaryColor</item>
+    </style>
+
+    <style name="Widget.App.Toolbar" parent="Widget.Material3.Toolbar">
+        <item name="titleTextColor">?attr/colorOnPrimary</item>
+        <item name="android:background">?attr/colorPrimary</item>
+    </style>
+
+    <style name="Widget.App.Button" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textColor">?attr/colorOnBackground</item>
+    </style>
+
+</resources>

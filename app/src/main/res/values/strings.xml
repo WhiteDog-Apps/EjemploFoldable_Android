@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">EjemploFoldable</string>
+    <string name="app_continuity">App Continuity</string>
+    <string name="optimizacion_ui">Optimización UI</string>
+    <string name="flex_mode">Flex Mode</string>
+    <string name="drag_and_drop">Drag&amp;Drop</string>
+    <string name="saved_instance">Saved Instance</string>
+    <string name="view_model">View Model</string>
+
+    <string name="mas">+</string>
+    <string name="manos">-</string>
+    <string name="cero">0</string>
+
+    <string name="visitante">Visitante</string>
+    <string name="local">Local</string>
+
+    <string name="comprobar">Comprobar</string>
+
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ordenador_portatil">Ordenador portatil</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="lorem_ipsum_lista">- Lorem ipsum dolor sit amet\n- Consectetur adipiscing elit\n- Sed do eiusmod tempor incididunt \n- Ut labore et dolore magna aliqua.\n- Ut enim ad minim veniam, quis nostrud \n- Exercitation ullamco laboris nisi ut \n- Aliquip ex ea commodo consequat</string>
+    <string name="informacion">Información del producto</string>
+    <string name="detalles_tecnicos">Detalles técnicos</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="panel_tactil">Panel táctil</string>
+    <string name="sin_continuity">Sin App Continuity</string>
+    <string name="mi_perfil">Mi perfil</string>
+    <string name="quitar_imagen_perfil">Quitar imagen de perfil</string>
+    <string name="imagen_de_perfil">Imagen de perfil</string>
+    <string name="arrastre_imagen_mensaje">Arrastre una imagen aquí</string>
+</resources>

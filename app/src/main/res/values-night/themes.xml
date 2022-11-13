@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.EjemploFoldable" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/nightPrimaryColor</item>
+        <item name="colorOnPrimary">@color/nightOnPrimaryColor</item>
+        <item name="colorPrimaryContainer">@color/nightPrimaryContainerColor</item>
+        <item name="colorOnPrimaryContainer">@color/nightOnPrimaryContainerColor</item>
+
+        <item name="colorSecondary">@color/nightSecondaryColor</item>
+        <item name="colorOnSecondary">@color/nightOnSecondaryColor</item>
+        <item name="colorSecondaryContainer">@color/nightSecondaryContainerColor</item>
+        <item name="colorOnSecondaryContainer">@color/nightOnSecondaryContainerColor</item>
+
+        <item name="colorPrimaryVariant">@color/nightPrimaryDarkColor</item>
+        <item name="colorSecondaryVariant">@color/nightSecondaryDarkColor</item>
+
+        <item name="colorTertiary">@color/nightTertiaryColor</item>
+        <item name="colorOnTertiary">@color/nightOnTertiaryColor</item>
+        <item name="colorTertiaryContainer">@color/nightTertiaryContainerColor</item>
+        <item name="colorOnTertiaryContainer">@color/nightOnTertiaryContainerColor</item>
+
+        <item name="colorError">@color/nightErrorColor</item>
+        <item name="colorErrorContainer">@color/nightErrorContainerColor</item>
+        <item name="colorOnError">@color/nightOnErrorColor</item>
+        <item name="colorOnErrorContainer">@color/nightOnErrorContainerColor</item>
+
+        <item name="android:colorBackground">@color/nightBackgroundColor</item>
+        <item name="colorOnBackground">@color/nightOnBackgroundColor</item>
+
+        <item name="colorSurface">@color/nightSurfaceColor</item>
+        <item name="colorOnSurface">@color/nightOnSurfaceColor</item>
+        <item name="colorSurfaceVariant">@color/nightSurfaceVariantColor</item>
+        <item name="colorOnSurfaceVariant">@color/nightOnSurfaceVariantColor</item>
+
+        <item name="colorOutline">@color/nightOutlineColor</item>
+
+        <item name="colorOnSurfaceInverse">@color/nightInverseOnSurfaceColor</item>
+        <item name="colorSurfaceInverse">@color/nightInverseSurfaceColor</item>
+
+        <item name="colorPrimaryInverse">@color/nightPrimaryInverseColor</item>
+
+        <item name="materialAlertDialogTheme">@style/Theme.EjemploFoldable.Dialog</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <item name="android:navigationBarColor">?attr/colorPrimaryVariant</item>
+
+        <item name="toolbarStyle">@style/Widget.App.Toolbar</item>
+        <item name="materialButtonOutlinedStyle">@style/Widget.App.Button</item>
+    </style>
+
+</resources>
